@@ -1,0 +1,605 @@
+{
+	"date": "2/10/2017",
+	"data": [
+						{
+							"rank": "1",
+							"hb1_visa_sponsor": "Infosys",
+							"number_of_lca": "25,405",
+							"average_salary": "$81,705"
+						},
+						{
+							"rank": "2",
+							"hb1_visa_sponsor": "Capgemini",
+							"number_of_lca": "17,479",
+							"average_salary": "$93,213"
+						},
+						{
+							"rank": "3",
+							"hb1_visa_sponsor": "Tata Consultancy Services",
+							"number_of_lca": "13,134",
+							"average_salary": "$76,099"
+						},
+						{
+							"rank": "4",
+							"hb1_visa_sponsor": "IBM",
+							"number_of_lca": "12,381",
+							"average_salary": "$87,378"
+						},
+						{
+							"rank": "5",
+							"hb1_visa_sponsor": "Wipro",
+							"number_of_lca": "10,607",
+							"average_salary": "$72,720"
+						},
+						{
+							"rank": "6",
+							"hb1_visa_sponsor": "Accenture",
+							"number_of_lca": "9,479",
+							"average_salary": "$81,585"
+						},
+						{
+							"rank": "7",
+							"hb1_visa_sponsor": "Tech Mahindra (Americas)",
+							"number_of_lca": "8,615",
+							"average_salary": "$75,879"
+						},
+						{
+							"rank": "8",
+							"hb1_visa_sponsor": "Deloitte Consulting",
+							"number_of_lca": "7,645",
+							"average_salary": "$122,667"
+						},
+						{
+							"rank": "9",
+							"hb1_visa_sponsor": "Cognizant Technology Solutions",
+							"number_of_lca": "5,370",
+							"average_salary": "$74,628"
+						},
+						{
+							"rank": "10",
+							"hb1_visa_sponsor": "Microsoft",
+							"number_of_lca": "5,029",
+							"average_salary": "$129,610"
+							},
+							{
+								"rank": "11",
+								"hb1_visa_sponsor": "Hcl America",
+								"number_of_lca": "4,930",
+								"average_salary": "$84,040"
+							},
+						{
+							"rank": "12",
+							"hb1_visa_sponsor": "Google",
+							"number_of_lca": "4,897",
+							"average_salary": "$129,997"
+						},
+						{
+							"rank": "13",
+							"hb1_visa_sponsor": "Ernst &amp; Young",
+							"number_of_lca": "4,625",
+							"average_salary": "$98,722"
+						},
+						{
+							"rank": "14",
+							"hb1_visa_sponsor": "Ust Global",
+							"number_of_lca": "3,170",
+							"average_salary": "$69,819"
+						},
+						{
+							"rank": "15",
+							"hb1_visa_sponsor": "Larsen &amp; Toubro Infotech",
+							"number_of_lca": "3,092",
+							"average_salary": "$76,755"
+						},
+						{
+							"rank": "16",
+							"hb1_visa_sponsor": "Amazon",
+							"number_of_lca": "2,622",
+							"average_salary": "$121,850"
+						},
+						{
+							"rank": "17",
+							"hb1_visa_sponsor": "Igate Technologies",
+							"number_of_lca": "2,197",
+							"average_salary": "$70,209"
+						},
+						{
+							"rank": "18",
+							"hb1_visa_sponsor": "L&amp;T Technology Services",
+							"number_of_lca": "1,853",
+							"average_salary": "$69,648"
+						},
+						{
+							"rank": "19",
+							"hb1_visa_sponsor": "Syntel Consulting",
+							"number_of_lca": "1,847",
+							"average_salary": "$71,338"
+						},
+						{
+							"rank": "20",
+							"hb1_visa_sponsor": "Jpmorgan Chase",
+							"number_of_lca": "1,765",
+							"average_salary": "$111,283"
+						},
+						{
+							"rank": "21",
+							"hb1_visa_sponsor": "Apple",
+							"number_of_lca": "1,660",
+							"average_salary": "$141,294"
+						},
+						{
+							"rank": "22",
+							"hb1_visa_sponsor": "Intel",
+							"number_of_lca": "1,647",
+							"average_salary": "$107,428"
+						},
+						{
+							"rank": "23",
+							"hb1_visa_sponsor": "Deloitte &amp; Touche",
+							"number_of_lca": "1,646",
+							"average_salary": "$75,705"
+						},
+						{
+							"rank": "24",
+							"hb1_visa_sponsor": "Hexaware Technologies",
+							"number_of_lca": "1,634",
+							"average_salary": "$72,336"
+						},
+						{
+							"rank": "25",
+							"hb1_visa_sponsor": "Ntt Data",
+							"number_of_lca": "1,253",
+							"average_salary": "$94,255"
+						},
+						{
+							"rank": "26",
+							"hb1_visa_sponsor": "Kpmg",
+							"number_of_lca": "1,246",
+							"average_salary": "$96,621"
+						},
+						{
+							"rank": "27",
+							"hb1_visa_sponsor": "Mastech, A Mastech Holdings Company",
+							"number_of_lca": "1,232",
+							"average_salary": "$94,849"
+						},
+						{
+							"rank": "28",
+							"hb1_visa_sponsor": "Pricewaterhousecoopers Advisory Services",
+							"number_of_lca": "1,215",
+							"average_salary": "$118,509"
+						},
+						{
+							"rank": "29",
+							"hb1_visa_sponsor": "Facebook",
+							"number_of_lca": "1,167",
+							"average_salary": "$145,683"
+						},
+						{
+							"rank": "30",
+							"hb1_visa_sponsor": "Pricewaterhousecoopers",
+							"number_of_lca": "1,095",
+							"average_salary": "$91,619"
+						},
+						{
+							"rank": "31",
+							"hb1_visa_sponsor": "Birlasoft",
+							"number_of_lca": "1,069",
+							"average_salary": "$60,474"
+						},
+						{
+							"rank": "32",
+							"hb1_visa_sponsor": "V-Soft Consulting Group",
+							"number_of_lca": "1,045",
+							"average_salary": "$80,021"
+						},
+						{
+							"rank": "33",
+							"hb1_visa_sponsor": "Htc Global Services",
+							"number_of_lca": "1,001",
+							"average_salary": "$68,413"
+						},
+						{
+							"rank": "34",
+							"hb1_visa_sponsor": "Goldman, Sachs",
+							"number_of_lca": "988",
+							"average_salary": "$117,083"
+						},
+						{
+							"rank": "35",
+							"hb1_visa_sponsor": "Bank Of America",
+							"number_of_lca": "960",
+							"average_salary": "$111,732"
+						},
+						{
+							"rank": "36",
+							"hb1_visa_sponsor": "Virtusa",
+							"number_of_lca": "956",
+							"average_salary": "$89,969"
+						},
+						{
+							"rank": "37",
+							"hb1_visa_sponsor": "Compunnel Software Group",
+							"number_of_lca": "953",
+							"average_salary": "$68,736"
+						},
+						{
+							"rank": "38",
+							"hb1_visa_sponsor": "Wal-Mart Associates",
+							"number_of_lca": "893",
+							"average_salary": "$116,903"
+						},
+						{
+							"rank": "39",
+							"hb1_visa_sponsor": "Salesforce.Com",
+							"number_of_lca": "863",
+							"average_salary": "$117,210"
+						},
+						{
+							"rank": "40",
+							"hb1_visa_sponsor": "Oracle America",
+							"number_of_lca": "834",
+							"average_salary": "$123,577"
+						},
+						{
+							"rank": "41",
+							"hb1_visa_sponsor": "Qualcomm Technologies",
+							"number_of_lca": "829",
+							"average_salary": "$120,531"
+						},
+						{
+							"rank": "42",
+							"hb1_visa_sponsor": "Randstad Technologies",
+							"number_of_lca": "826",
+							"average_salary": "$104,710"
+						},
+						{
+							"rank": "43",
+							"hb1_visa_sponsor": "Emc",
+							"number_of_lca": "823",
+							"average_salary": "$113,460"
+						},
+						{
+							"rank": "44",
+							"hb1_visa_sponsor": "Populus Group",
+							"number_of_lca": "812",
+							"average_salary": "$100,375"
+						},
+						{
+							"rank": "45",
+							"hb1_visa_sponsor": "Mindtree",
+							"number_of_lca": "807",
+							"average_salary": "$75,773"
+						},
+						{
+							"rank": "46",
+							"hb1_visa_sponsor": "Ebay",
+							"number_of_lca": "797",
+							"average_salary": "$137,362"
+						},
+						{
+							"rank": "47",
+							"hb1_visa_sponsor": "Cummins",
+							"number_of_lca": "797",
+							"average_salary": "$80,471"
+						},
+						{
+							"rank": "48",
+							"hb1_visa_sponsor": "Mphasis",
+							"number_of_lca": "782",
+							"average_salary": "$75,840"
+						},
+						{
+							"rank": "49",
+							"hb1_visa_sponsor": "Citibank",
+							"number_of_lca": "765",
+							"average_salary": "$117,181"
+						},
+						{
+							"rank": "50",
+							"hb1_visa_sponsor": "Capgemini Financial Services Usa",
+							"number_of_lca": "750",
+							"average_salary": "$93,776"
+						},
+						{
+							"rank": "51",
+							"hb1_visa_sponsor": "Ernst &amp; Young",
+							"number_of_lca": "740",
+							"average_salary": "$91,965"
+						},
+						{
+							"rank": "52",
+							"hb1_visa_sponsor": "Paypal",
+							"number_of_lca": "723",
+							"average_salary": "$134,666"
+						},
+						{
+							"rank": "53",
+							"hb1_visa_sponsor": "Dell Marketing",
+							"number_of_lca": "720",
+							"average_salary": "$92,331"
+						},
+						{
+							"rank": "54",
+							"hb1_visa_sponsor": "Yahoo!",
+							"number_of_lca": "710",
+							"average_salary": "$142,385"
+						},
+						{
+							"rank": "55",
+							"hb1_visa_sponsor": "Cerner",
+							"number_of_lca": "705",
+							"average_salary": "$74,071"
+						},
+						{
+							"rank": "56",
+							"hb1_visa_sponsor": "Linkedin",
+							"number_of_lca": "701",
+							"average_salary": "$154,089"
+						},
+						{
+							"rank": "57",
+							"hb1_visa_sponsor": "Persistent Systems",
+							"number_of_lca": "699",
+							"average_salary": "$79,664"
+						},
+						{
+							"rank": "58",
+							"hb1_visa_sponsor": "Ericsson",
+							"number_of_lca": "690",
+							"average_salary": "$109,227"
+						},
+						{
+							"rank": "59",
+							"hb1_visa_sponsor": "Synechron",
+							"number_of_lca": "689",
+							"average_salary": "$88,152"
+						},
+						{
+							"rank": "60",
+							"hb1_visa_sponsor": "Hcl Global Systems",
+							"number_of_lca": "687",
+							"average_salary": "$81,855"
+						},
+						{
+							"rank": "61",
+							"hb1_visa_sponsor": "Capital One Services",
+							"number_of_lca": "670",
+							"average_salary": "$107,427"
+						},
+						{
+							"rank": "62",
+							"hb1_visa_sponsor": "Syntel",
+							"number_of_lca": "667",
+							"average_salary": "$91,022"
+						},
+						{
+							"rank": "63",
+							"hb1_visa_sponsor": "Fujitsu America",
+							"number_of_lca": "653",
+							"average_salary": "$80,585"
+						},
+						{
+							"rank": "64",
+							"hb1_visa_sponsor": "Cisco Systems",
+							"number_of_lca": "642",
+							"average_salary": "$127,884"
+						},
+						{
+							"rank": "65",
+							"hb1_visa_sponsor": "Cyient",
+							"number_of_lca": "637",
+							"average_salary": "$67,499"
+						},
+						{
+							"rank": "66",
+							"hb1_visa_sponsor": "Deloitte Tax",
+							"number_of_lca": "611",
+							"average_salary": "$69,443"
+						},
+						{
+							"rank": "67",
+							"hb1_visa_sponsor": "Kpit Infosystems",
+							"number_of_lca": "610",
+							"average_salary": "$72,596"
+						},
+						{
+							"rank": "68",
+							"hb1_visa_sponsor": "Ipolarity",
+							"number_of_lca": "604",
+							"average_salary": "$66,737"
+						},
+						{
+							"rank": "69",
+							"hb1_visa_sponsor": "American Express Travel Related Services",
+							"number_of_lca": "595",
+							"average_salary": "$107,113"
+						},
+						{
+							"rank": "70",
+							"hb1_visa_sponsor": "Vedicsoft Solutions",
+							"number_of_lca": "581",
+							"average_salary": "$69,066"
+						},
+						{
+							"rank": "71",
+							"hb1_visa_sponsor": "Gss Infotech Ct",
+							"number_of_lca": "576",
+							"average_salary": "$66,648"
+						},
+						{
+							"rank": "72",
+							"hb1_visa_sponsor": "Tesla Motors",
+							"number_of_lca": "566",
+							"average_salary": "$106,705"
+						},
+						{
+							"rank": "73",
+							"hb1_visa_sponsor": "Uber Technologies",
+							"number_of_lca": "565",
+							"average_salary": "$124,873"
+						},
+						{
+							"rank": "74",
+							"hb1_visa_sponsor": "Diaspark",
+							"number_of_lca": "557",
+							"average_salary": "$66,218"
+						},
+						{
+							"rank": "75",
+							"hb1_visa_sponsor": "Exilant Technologies Private",
+							"number_of_lca": "553",
+							"average_salary": "$87,126"
+						},
+						{
+							"rank": "76",
+							"hb1_visa_sponsor": "University Of Michigan",
+							"number_of_lca": "550",
+							"average_salary": "$67,119"
+						},
+						{
+							"rank": "77",
+							"hb1_visa_sponsor": "First Tek",
+							"number_of_lca": "543",
+							"average_salary": "$65,673"
+						},
+						{
+							"rank": "78",
+							"hb1_visa_sponsor": "VM Ware",
+							"number_of_lca": "532",
+							"average_salary": "$132,616"
+						},
+						{
+							"rank": "79",
+							"hb1_visa_sponsor": "Erp Analysts",
+							"number_of_lca": "520",
+							"average_salary": "$68,969"
+						},
+						{
+							"rank": "80",
+							"hb1_visa_sponsor": "Sapient",
+							"number_of_lca": "515",
+							"average_salary": "$109,099"
+						},
+						{
+							"rank": "81",
+							"hb1_visa_sponsor": "Marlabs",
+							"number_of_lca": "515",
+							"average_salary": "$70,804"
+						},
+						{
+							"rank": "82",
+							"hb1_visa_sponsor": "Pyramid Technology Solutions",
+							"number_of_lca": "515",
+							"average_salary": "$65,403"
+						},
+						{
+							"rank": "83",
+							"hb1_visa_sponsor": "Intone Networks",
+							"number_of_lca": "514",
+							"average_salary": "$74,810"
+						},
+						{
+							"rank": "84",
+							"hb1_visa_sponsor": "Credit Suisse Securities (Usa)",
+							"number_of_lca": "513",
+							"average_salary": "$118,214"
+						},
+						{
+							"rank": "85",
+							"hb1_visa_sponsor": "Ciber",
+							"number_of_lca": "503",
+							"average_salary": "$100,649"
+						},
+						{
+							"rank": "86",
+							"hb1_visa_sponsor": "The Mathworks",
+							"number_of_lca": "496",
+							"average_salary": "$94,153"
+						},
+						{
+							"rank": "87",
+							"hb1_visa_sponsor": "Grandison Management",
+							"number_of_lca": "494",
+							"average_salary": "$62,422"
+						},
+						{
+							"rank": "88",
+							"hb1_visa_sponsor": "Dell Usa",
+							"number_of_lca": "491",
+							"average_salary": "$102,891"
+						},
+						{
+							"rank": "89",
+							"hb1_visa_sponsor": "Astir It Solutions",
+							"number_of_lca": "489",
+							"average_salary": "$67,172"
+						},
+						{
+							"rank": "90",
+							"hb1_visa_sponsor": "System Soft Technologies",
+							"number_of_lca": "488",
+							"average_salary": "$94,190"
+						},
+						{
+							"rank": "91",
+							"hb1_visa_sponsor": "Reliable Software Resources",
+							"number_of_lca": "475",
+							"average_salary": "$62,068"
+						},
+						{
+							"rank": "92",
+							"hb1_visa_sponsor": "Cgi Technologies And Solutions",
+							"number_of_lca": "468",
+							"average_salary": "$94,014"
+						},
+						{
+							"rank": "93",
+							"hb1_visa_sponsor": "Bloomberg",
+							"number_of_lca": "467",
+							"average_salary": "$147,203"
+						},
+						{
+							"rank": "94",
+							"hb1_visa_sponsor": "Broadcom",
+							"number_of_lca": "466",
+							"average_salary": "$123,013"
+						},
+						{
+							"rank": "95",
+							"hb1_visa_sponsor": "3i Infotech",
+							"number_of_lca": "466",
+							"average_salary": "$64,018"
+						},
+						{
+							"rank": "96",
+							"hb1_visa_sponsor": "Kellton Tech",
+							"number_of_lca": "465",
+							"average_salary": "$69,640"
+						},
+						{
+							"rank": "97",
+							"hb1_visa_sponsor": "Avco Consulting",
+							"number_of_lca": "456",
+							"average_salary": "$72,045"
+						},
+						{
+							"rank": "98",
+							"hb1_visa_sponsor": "Citiustech",
+							"number_of_lca": "455",
+							"average_salary": "$79,389"
+						},
+						{
+							"rank": "99",
+							"hb1_visa_sponsor": "Johns Hopkins University",
+							"number_of_lca": "449",
+							"average_salary": "$74,961"
+						},
+						{
+							"rank": "100",
+							"hb1_visa_sponsor": "Yash Technologies",
+							"number_of_lca": "434",
+							"average_salary": "$66,446"
+						}
+	]
+}
