@@ -1,6 +1,6 @@
 # Top 100 HB1 Visa Sponsors
 
-wip
+Week 2 data visualization project.
 
 ## Start
 
